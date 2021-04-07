@@ -1,4 +1,4 @@
-# Exercices Javascript
+# Exercices Javascript Partie_1
 
 ## Exercice 1    		
 
@@ -14,7 +14,7 @@ Afficher une modale demandant un prénom et ensuite afficher une seconde modale 
 
 ## Exercice 4
 
-Créez trois champs pour entrer un nom, prénom et une ville. Un bouton doit permettre de les afficher dans une modale. 
+Créez trois champs pour entrer un nom, prénom et une ville. Un bouton doit permettre de les afficher dans une modale.
 
 ## Exercice 5
 

@@ -1,9 +1,9 @@
 function age() {
-  var age = prompt("veuillez entrer votre âge");
+  var age = prompt("Veuillez entrer votre âge");
   if (age >= 18){
-      alert ("vous êtes majeur");
+      alert ("Vous êtes majeur");
   } else{
-      alert ("vous êtes mineur");
+      alert ("Vous êtes mineur");
     }
 //    var number = document.getElementById ('mult1').value;
 }

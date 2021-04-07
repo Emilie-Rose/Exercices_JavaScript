@@ -8,7 +8,7 @@
 // si le resultat s"affiche, il affiche "bonjour" et le resultat que l'on a tapé dans "result"
             alert("Bonjour " + result + "!");
             } else{
-                alert("Veuillez vérifier votre saisie!")
+                alert("Veuillez vérifier votre saisie!");
             }
         }
     // on appelle la fonction
